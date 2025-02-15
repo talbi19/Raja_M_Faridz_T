@@ -12,26 +12,26 @@ nav {
 {
    box-sizing: border-box;
 }
-.row {
+row {
    display: flex;
    flex-wrap: wrap;
 }
-.post-text-box {
+post-text-box {
    flex: 70%;
    padding: 20px;
 }
-.profile {
+profile {
    flex: 70%;
    padding: 20px;
 }
 
-.profile img {
+profile img {
    width: 120px;
    display: block;
    margin-left: 0;
    margin-right: 0;
 }
-.profile h1 {
+profile h1 {
    text-align: center;
 }
 nav {
